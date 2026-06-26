@@ -5,3 +5,25 @@
 <p>Mereka akan membuat gambar, tombol, teks, dan juga menu serta interaksi antar setiap situs atau aplikasi dengan para pengguna. Oleh karena itu, mereka juga biasa dikenal dengan client-side. Front end adalah suatu hal yang tidak dibuat dengan merancang desain dari suatu situs ataupun aplikasi dari nol. Karena, pada dasarnya hal tersebut sudah dikerjakan oleh UI designer.</p>
 
 <p>Tugas front end adalah memindahkan desain yang dibuat oleh UI designer dalam bentuk yang lebih interaktif dan membuat desain tersebut menjadi lebih hidup. Nah, untuk membuat suatu situs website atau aplikasi, maka dibutuhkan juga seorang back end developer.</p>
+
+
+## 🛠️ TECH STACK
+
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+
+
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" />
+
+
+
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
